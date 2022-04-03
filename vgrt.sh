@@ -75,5 +75,6 @@
 
 	echo  "SHELL" >> Vagrantfile
 	echo "end"  >> Vagrantfile
+	echo "Procés finalitzat. S'ha creat el fitxer Vagrantfile"
 
 exit 0
